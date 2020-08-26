@@ -1,0 +1,10 @@
+body{
+    background-image: url(cartoon%20house.jpeg);
+    width: 100%;
+    background-repeat:repeat-x;
+   background-size: 50%;
+}
+
+.section marquee img{
+    backface-visibility: hidden;
+}
